@@ -1,7 +1,7 @@
 
 # ADO REPO DATA EXTRACTOR
 
-using the script we can pull all the below information from ADO.
+using the script we can pull all the following information from ADO.
 `
 REPO NAME,REPO ID,PROJECT NAME,PROJECT ID,REPO URL,REPO DEFAULT BRANCH,REPO DISABLED STATE,PROJECT DESCRIPTION,LANUGAGE STACK,TOTAL NUMBER OF FILES
 `
